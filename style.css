@@ -223,3 +223,6 @@ h1 {
     width:50px;
     border-radius: 32px;
 }
+.fake {
+    color: blue;
+}
